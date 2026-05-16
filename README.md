@@ -1,2 +1,2 @@
 # o-dia.github.io
-Personal Website
+Personal website
