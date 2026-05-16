@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Omar Dia">
+  <rect width="64" height="64" rx="14" fill="#15110f"/>
+  <path d="M18 34c0-10 6-17 14-17s14 7 14 17-6 17-14 17-14-7-14-17Z" fill="none" stroke="#e5a15f" stroke-width="4"/>
+  <path d="M32 17v34" stroke="#f3eee7" stroke-width="3" stroke-linecap="round" opacity=".72"/>
+</svg>

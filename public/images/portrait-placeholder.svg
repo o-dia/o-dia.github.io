@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" role="img" aria-label="Portrait placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#211b18"/>
+      <stop offset="1" stop-color="#473024"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".35" cy=".3" r=".8">
+      <stop stop-color="#e5a15f" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#e5a15f" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="1100" fill="url(#bg)"/>
+  <rect width="900" height="1100" fill="url(#glow)"/>
+  <g fill="none" stroke="#f3eee7" stroke-opacity=".18">
+    <path d="M120 278c172-112 375-110 620-6"/>
+    <path d="M92 570c205-96 443-88 714 24"/>
+    <path d="M152 856c156-88 354-82 596 18"/>
+  </g>
+  <circle cx="450" cy="384" r="118" fill="#f3eee7" fill-opacity=".13"/>
+  <path d="M249 842c32-176 113-264 201-264s169 88 201 264" fill="#f3eee7" fill-opacity=".1"/>
+  <text x="450" y="990" fill="#f3eee7" fill-opacity=".68" font-family="Inter, Arial, sans-serif" font-size="34" text-anchor="middle">Drop portrait.jpg here</text>
+</svg>
