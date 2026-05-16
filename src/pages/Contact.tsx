@@ -5,7 +5,7 @@ import { site } from "../data/site";
 export function Contact() {
   return (
     <>
-      <Metadata title="Contact" description="Contact links for Omar Dia." />
+      <Metadata title="Contact" description="Contact links" />
       <section className="page-intro">
         <p className="eyebrow">Contact</p>
         <h1 className="page-title">Reach out, follow along, or subscribe.</h1>

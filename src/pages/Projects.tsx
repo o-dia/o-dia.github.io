@@ -11,7 +11,7 @@ export function Projects() {
       />
       <section className="page-intro">
         <p className="eyebrow">Projects</p>
-        <h1 className="page-title">Case studies and build logs.</h1>
+        <h1 className="page-title">Github repos.</h1>
         <p className="page-copy">
           Projects start as structured cards. When a project needs a fuller
           story, it can graduate into a dedicated MDX case study.

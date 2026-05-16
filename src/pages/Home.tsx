@@ -14,13 +14,13 @@ export function Home() {
       <Metadata />
       <section className="grid min-h-[72vh] items-end gap-10 pb-12 pt-16 lg:grid-cols-[1.08fr_0.72fr]">
         <div>
-          <p className="eyebrow">Writing / Projects / Systems</p>
+          <p className="eyebrow">Writing / Projects </p>
           <h1 className="mt-6 max-w-4xl text-5xl font-semibold leading-[0.98] text-ink sm:text-7xl lg:text-8xl">
             A public field for careful work.
           </h1>
           <p className="mt-8 max-w-2xl text-lg leading-8 text-ink-muted sm:text-xl">
             I am building a place for essays, project notes, and case studies
-            about technology, craft, systems, and the way ideas become durable
+            about technology, economics, and the way ideas become durable
             work.
           </p>
           <div className="mt-9 flex flex-wrap gap-3">
@@ -31,7 +31,7 @@ export function Home() {
               View projects
             </Link>
             <Link className="button-secondary" to="/about">
-              About Omar
+              About me
             </Link>
           </div>
         </div>

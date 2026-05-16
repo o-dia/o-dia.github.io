@@ -15,7 +15,7 @@ export function Writing() {
     <>
       <Metadata
         title="Writing"
-        description="Essays and notes by Omar Dia, grouped by theme."
+        description="Essays and notes, grouped by theme."
       />
       <section className="page-intro">
         <p className="eyebrow">Writing</p>

@@ -1,17 +1,17 @@
 import { Metadata } from "../components/Metadata";
 
 const interests = [
-  "Interfaces for thought and decision-making",
-  "Writing as a way to make systems legible",
-  "Technical craft with editorial restraint",
-  "Tools that help people move from signal to action",
+  "Economics",
+  "Technology",
+  "Design",
+  "Commodities",
 ];
 
 const values = [
-  "Prefer clarity over ornamental complexity.",
-  "Build the smallest structure that can carry the work.",
-  "Keep taste and implementation in conversation.",
-  "Leave systems easier to extend than they were found.",
+  "Simplicity",
+  "Empathy",
+  "Taste",
+  "Growth",
 ];
 
 export function About() {
@@ -19,7 +19,7 @@ export function About() {
     <>
       <Metadata
         title="About"
-        description="About Omar Dia: interests, operating style, and current areas of work."
+        description="Interests, and current areas of work."
       />
       <section className="page-intro">
         <p className="eyebrow">About</p>
@@ -35,7 +35,7 @@ export function About() {
         <div className="overflow-hidden rounded-lg border border-graphite-line bg-ink/[0.045]">
           <img
             src="/images/portrait.jpg"
-            alt="Portrait of Omar Dia"
+            alt="Portrait"
             className="aspect-[4/5] h-full w-full object-cover"
             onError={(event) => {
               event.currentTarget.src = "/images/portrait-placeholder.svg";
