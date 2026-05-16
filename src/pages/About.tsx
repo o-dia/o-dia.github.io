@@ -1,17 +1,17 @@
 import { Metadata } from "../components/Metadata";
 
 const interests = [
-  "Economics",
-  "Technology",
-  "Design",
-  "Commodities",
+  "Lorem ipsum",
+  "Dolor sit amet",
+  "Consectetur",
+  "Adipiscing elit",
 ];
 
 const values = [
-  "Simplicity",
-  "Empathy",
-  "Taste",
-  "Growth",
+  "Sed do eiusmod",
+  "Tempor incididunt",
+  "Ut labore",
+  "Dolore magna",
 ];
 
 export function About() {
@@ -19,15 +19,14 @@ export function About() {
     <>
       <Metadata
         title="About"
-        description="Interests, and current areas of work."
+        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit."
       />
       <section className="page-intro">
         <p className="eyebrow">About</p>
         <h1 className="page-title">A short frame for the person behind the work.</h1>
         <p className="page-copy">
-          This page is intentionally editable. Replace this placeholder with a
-          career narrative, the problems you care about, and the through-line
-          that connects your writing and projects.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
         </p>
       </section>
 
@@ -46,9 +45,8 @@ export function About() {
           <div className="surface-panel p-6 sm:p-8">
             <h2 className="section-title">Career narrative</h2>
             <p className="mt-4 text-sm leading-7 text-ink-muted sm:text-base">
-              Write this as a compact story rather than a resume. The best
-              version should tell people what you notice, what you build, and
-              why your way of working is distinctive.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+              eiusmod tempor incididunt ut labore et dolore magna aliqua.
             </p>
           </div>
           <div className="grid gap-4 md:grid-cols-2">

@@ -6,13 +6,13 @@ export function NotFound() {
     <>
       <Metadata
         title="Page not found"
-        description="The requested page could not be found."
+        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit."
       />
       <section className="page-intro">
         <p className="eyebrow">404</p>
         <h1 className="page-title">This page is outside the field.</h1>
         <p className="page-copy">
-          The route does not exist yet, or the piece has moved.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         </p>
         <Link className="button-primary mt-8 inline-flex" to="/">
           Return home

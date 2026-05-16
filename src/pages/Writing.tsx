@@ -15,14 +15,14 @@ export function Writing() {
     <>
       <Metadata
         title="Writing"
-        description="Essays and notes, grouped by theme."
+        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit."
       />
       <section className="page-intro">
         <p className="eyebrow">Writing</p>
         <h1 className="page-title">Essays, notes, and working arguments.</h1>
         <p className="page-copy">
-          Writing lives in MDX files so new pieces can be added by creating a
-          file, exporting metadata, and writing the essay in place.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
         </p>
       </section>
 

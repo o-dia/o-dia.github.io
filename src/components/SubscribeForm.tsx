@@ -9,9 +9,8 @@ export function SubscribeForm() {
         <p className="eyebrow">Updates</p>
         <h2 className="section-title mt-3">Get new writing when it ships.</h2>
         <p className="mt-4 text-sm leading-7 text-ink-muted sm:text-base">
-          A static-friendly subscription module designed for {provider}. Replace
-          the action URL in <code>src/data/site.ts</code> when your newsletter is
-          ready.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Provider:
+          {provider}.
         </p>
       </div>
       <form

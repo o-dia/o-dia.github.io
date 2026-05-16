@@ -2,7 +2,7 @@ export const site = {
   name: "Omar Dia",
   title: "Omar Dia | Writing, projects, and systems-oriented work",
   description:
-    "A personal website for Omar Dia's writing, projects, and systems-oriented work.",
+    "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
   email: "hello@example.com",
   links: {
     github: "https://github.com/o-dia",

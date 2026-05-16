@@ -5,13 +5,16 @@ import { site } from "../data/site";
 export function Contact() {
   return (
     <>
-      <Metadata title="Contact" description="Contact links" />
+      <Metadata
+        title="Contact"
+        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      />
       <section className="page-intro">
         <p className="eyebrow">Contact</p>
         <h1 className="page-title">Reach out, follow along, or subscribe.</h1>
         <p className="page-copy">
-          Replace the placeholder email in <code>src/data/site.ts</code> with
-          your preferred contact address before launch.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
         </p>
       </section>
 

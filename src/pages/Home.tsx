@@ -19,9 +19,8 @@ export function Home() {
             A public field for careful work.
           </h1>
           <p className="mt-8 max-w-2xl text-lg leading-8 text-ink-muted sm:text-xl">
-            I am building a place for essays, project notes, and case studies
-            about technology, economics, and the way ideas become durable
-            work.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua.
           </p>
           <div className="mt-9 flex flex-wrap gap-3">
             <Link className="button-primary" to="/writing">
@@ -38,12 +37,11 @@ export function Home() {
         <div className="surface-panel p-6">
           <p className="eyebrow">Current frame</p>
           <p className="mt-5 text-2xl font-semibold leading-snug text-ink">
-            Refined, technical, editorial, and easy to keep alive.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
           </p>
           <p className="mt-5 text-sm leading-7 text-ink-muted">
-            This first version sets up the architecture: MDX writing, project
-            data, a static subscription adapter, and a restrained WebGL layer
-            that supports the content without overpowering it.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua.
           </p>
         </div>
       </section>

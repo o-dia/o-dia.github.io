@@ -7,14 +7,14 @@ export function Projects() {
     <>
       <Metadata
         title="Projects"
-        description="Project notes and case-study cards from Omar Dia."
+        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit."
       />
       <section className="page-intro">
         <p className="eyebrow">Projects</p>
         <h1 className="page-title">Github repos.</h1>
         <p className="page-copy">
-          Projects start as structured cards. When a project needs a fuller
-          story, it can graduate into a dedicated MDX case study.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
         </p>
       </section>
 
