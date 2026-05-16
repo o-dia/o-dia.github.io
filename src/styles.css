@@ -32,7 +32,7 @@ body {
 
 @layer components {
   .eyebrow {
-    @apply text-xs font-semibold uppercase tracking-[0.22em] text-ember;
+    @apply text-sm font-semibold tracking-normal text-ember;
   }
 
   .button-primary {
@@ -109,22 +109,6 @@ body {
 
   .prose-content a {
     @apply text-ember underline underline-offset-4;
-  }
-}
-
-@media (max-width: 720px) {
-  header nav {
-    height: auto;
-    min-height: 4rem;
-    align-items: flex-start;
-    gap: 0.75rem;
-    padding-top: 0.75rem;
-    padding-bottom: 0.75rem;
-  }
-
-  header nav,
-  header nav > div {
-    flex-wrap: wrap;
   }
 }
 

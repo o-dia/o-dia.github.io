@@ -33,7 +33,7 @@ export function About() {
       <section className="grid gap-8 lg:grid-cols-[0.8fr_1.2fr]">
         <div className="overflow-hidden rounded-lg border border-graphite-line bg-ink/[0.045]">
           <img
-            src="/images/portrait.jpg"
+            src="/images/headshot.jpeg"
             alt="Portrait"
             className="aspect-[4/5] h-full w-full object-cover"
             onError={(event) => {
